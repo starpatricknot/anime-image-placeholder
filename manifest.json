@@ -1,5 +1,12 @@
 [
   {
+    "albumId": 1,
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
     "id": 1,
     "author": "Kizuna Ai",
     "download_url": "https://github.com/Xetera/placewaifu/blob/main/assets/images/2kizuna.jpg?raw=true"
